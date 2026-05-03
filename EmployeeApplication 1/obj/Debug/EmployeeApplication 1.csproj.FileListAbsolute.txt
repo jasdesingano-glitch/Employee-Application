@@ -1,0 +1,11 @@
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\bin\Debug\EmployeeApplication 1.exe.config
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\bin\Debug\EmployeeApplication 1.exe
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\bin\Debug\EmployeeApplication 1.pdb
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\obj\Debug\EmployeeApplication 1.csproj.AssemblyReference.cache
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\obj\Debug\EmployeeApplication_1.EmployeeInfo.resources
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\obj\Debug\EmployeeApplication_1.frmEmployeeDatabase.resources
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\obj\Debug\EmployeeApplication_1.Properties.Resources.resources
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\obj\Debug\EmployeeApplication 1.csproj.GenerateResource.cache
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\obj\Debug\EmployeeApplication 1.csproj.CoreCompileInputs.cache
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\obj\Debug\EmployeeApplication 1.exe
+C:\Users\jenae\source\repos\EmployeeApplication 1\EmployeeApplication 1\obj\Debug\EmployeeApplication 1.pdb
